@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "pricing1\\x64\\Debug\\OptionPricingEngine.obj",
+            "outputs": [
+                "pricing1\\x64\\Debug\\OptionPricingEngine.cpp.obj.dt.module.json",
+                "pricing1\\x64\\Debug\\OptionPricingEngine.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
